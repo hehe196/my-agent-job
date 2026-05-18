@@ -1,0 +1,24 @@
+# 忽略环境变量（密码）
+.env
+.env.local
+
+# Python 自动生成的文件
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
